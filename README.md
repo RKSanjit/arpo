@@ -1,4 +1,4 @@
-# Arpo
+# ARPo
 
 **Predictive supply chain intelligence for India's food industry.**
 
