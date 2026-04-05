@@ -1,8 +1,8 @@
-# ARPo
+# ARPO
 
 **Predictive supply chain intelligence for India's food industry.**
 
-Arpo predicts when restaurants and food distributors should reorder raw materials, how much to buy, and at what price — using real billing data, commodity price trends, and demand signals.
+ARPO predicts when restaurants and food distributors should reorder raw materials, how much to buy, and at what price - using real billing data, commodity price trends, and demand signals.
 
 ---
 
@@ -20,10 +20,10 @@ Restaurants in India buy raw materials on gut feel. No data, no forecasting, no 
 
 ## What Arpo Does
 
-- **Consumption prediction** — forecasts when a restaurant will run out of a raw material based on historical order cycles
-- **Price intelligence** — tracks commodity price trends to identify the optimal time to buy
-- **Reorder recommendations** — tells you what to order, how much, and when
-- **Supply chain traceability** — every transaction is logged and traceable across the chain
+- **Consumption prediction** - forecasts when a restaurant will run out of a raw material based on historical order cycles
+- **Price intelligence** - tracks commodity price trends to identify the optimal time to buy
+- **Reorder recommendations** - tells you what to order, how much, and when
+- **Supply chain traceability** - every transaction is logged and traceable across the chain
 
 ---
 
